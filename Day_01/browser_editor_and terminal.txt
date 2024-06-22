@@ -1,0 +1,16 @@
+To run JS code, we can use any method
+- Browser Console
+- Using Script Tag in HTML
+- Using a external Javascript File with extension .js (node file_name.js)
+
+
+Variables:
+- Variables are the building blocks of Javascript. There are three different ways to make a Variable, which in Javascript we refer to as declaring a Variable. They are:
+1. var 
+2. let
+3. const
+
+
+Question:
+- Difference between var, let, const. Pros and Cons.
+- Read Documentation of console.log function
