@@ -1,0 +1,108 @@
+Global Variable:
+count = 0
+while count < 10:
+    // operation
+    count +=1
+
+
+
+
+
+Local Variable:
+function add(a,b){
+    result = a+b
+    return result
+}
+
+
+Scoping:
+var name = "mehwash"
+let age = 21
+const city = "okara"
+
+-> Scoping in JS answer the question like "where are my variables available to me?"
+
+- var variables are scoped differently than let and const variables.
+- var variables are called as function scoped variables(they are only available within the parent function)
+- let and const variables are called as block scoped variables.
+- let and const are part of ES6.
+- var has been since JS invented.
+
+When we use const and let:
+- const use to not change value of Variable later on.
+- let 
+
+
+**Naming Conventions**:
+- Variables must start with small or capital letter like Name, name.
+- Variable can also start with _ or $ .
+- variables can not start with number.
+- variables cannot cantain space.
+
+
+Camel Casing vs Snake Casing:
+- Camel Casing:
+    const iLovePizza
+- Snake Casing:
+    const i_love_pizza
+
+
+====================================
+Code quality tools
+- Prettier
+- Eslint
+
+
+
+
+===================================
+
+Data-types:
+- String: "mehwash", 'mehwash'
+- Number: 3, 3.5, 6666666689834773487439439439974377373
+- Object: Special data-type. functions, dates, arrays. All other data-types except object are called primitive data-types. 
+- Boolean: true, false
+- Null: (Null vs 0, undefined vs null)
+- Undefined :
+- Symbol: New one to JS. Unique identifier. 
+
+
+
+===============================
+
+String: single, double, backtickts
+
+
+============================ 
+Comments: // to write comments.
+
+
+
+
+
+
+
+
+
+
+
+class person():
+
+    def _init__(name, age, class, area):
+        name = name
+        age = age
+        class = class
+        area = area
+    
+    def get_name():
+        return name
+
+    def get_age():
+        return age
+
+p1 = person("mehwash", 21, "SE", "okara")
+
+p1.get_name()
+
+
+
