@@ -1,0 +1,21 @@
+1. Types - Numbers :
+- typeof method 
+- Helper Methods 
+- Modulo and Power Operators
+- Infinity and Negative Infinity
+- Not a Number
+
+
+==============
+- typeof is a keyword in JS that allows us to check the type of a variable.
+- we can perform artimetic Operations on numbers like +, -, *, /. 
+- But we can not perform artimetic Operations on strings. 
+
+
+
+============
+Helper Methods:
+- Math.round() -> 20.5 (21), 20.2(20)
+- Math.floor() -> gives us the lower end of the number 20.2 (20)
+- Math.ceil() -> gives us the upper end of the number 20.9 (21)
+- Math.random() -> gives us a random number between 0 and 1
