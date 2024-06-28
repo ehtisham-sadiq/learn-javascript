@@ -1,0 +1,69 @@
+Module 1: Basics
+- Browser, Editor
+- How to run JS File
+- Variable and statements
+- Code quality tools
+- Data-types introduction
+- String data-type
+- Numbers data-type
+- Objects data-type
+- Null and undefined
+- Boolean and Equality
+
+
+
+Module 2: functions
+- Built-in functions
+- Custom functions
+- parameters and arguments in functions
+- different ways to declare functions
+- nested functions
+- debugging tools
+- Hoisting and Closures
+
+
+
+Module 3: The DOM
+- introduction
+- selecting elements
+- elements properities and methods
+- working with classes
+- built-in and Custom data attributes
+- creating HMTL
+- HMTL from strings and XSS(createRange, createFragment, security and sanitization, cross site scripting)
+- Traversing and removing nodes
+- Cardio
+
+
+Module 4: Events
+- Event Listener
+- Targets , Bubbling, Progagation and Capture
+- Prevent default and Form Events
+- Accessibility gotchas and keyboard codes
+
+
+
+Practice:
+- Scroll Events and intersection Observer
+- Click Outside Modal
+- Tabs(converting a NodeList to an array)
+- Event Listener once operation
+
+
+Module 5: Logic and Flow Control
+- If statements, functions returns, Truthy and Falsy
+- Coercion, Ternaries and conditional abuse 
+- case switch
+- intervals and timers
+
+Module 6: Data-types
+
+
+
+
+
+
+
+
+
+
