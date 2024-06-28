@@ -1,0 +1,29 @@
+Strings:
+- difference between single, double, backticks 
+- string = 'mehwash\'s is a good girl' -> here \ is called escape sequence.
+- string = "mehwash's is a good girl"
+
+
+=========================
+Putting string on Multiple Lines
+- using backticks , we can writee multi-line string.
+
+
+========================
+Concentation and Interpolation:
+- Concentation is when two or more strings are combined into one. 
+- Interpolation is when you put a Variable inside a string. 
+- If we add a string number and a integer number , then the result will be string.
+- "1" + "1" = "11"
+- "1" + 2 = "12" (type-casting)  
+=======================
+
+Interpolation using place-holder with backticks:
+- `  ${} `
+
+=======================
+creating HTML in our JS code
+document.body.innerHTML = html;
+
+
+
